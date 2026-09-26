@@ -1,8 +1,7 @@
 # 💫 About Me
 
-Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning** with hands-on experience building end-to-end AI-agent solutions, predictive ML pipelines, and data analytics dashboards.
+Computer Science graduate specializing in **Artificial Intelligence & Machine Learning** with hands-on experience building end-to-end AI-agent solutions, predictive ML pipelines, and data analytics dashboards.
 
-- 🔭 **Currently working on:** Deepfake Detection System using advanced computer vision and deep learning techniques.
 - 🎯 **Focus Areas:** Generative AI, Computer Vision, Automated Workflows & Predictive Analytics.
 - ⚡ **Goal:** Bridging complex machine learning models with practical, scalable applications to solve real-world problems.
 
@@ -47,16 +46,18 @@ Computer Science undergraduate specializing in **Artificial Intelligence & Machi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+## ⚙️ Engineering & Architecture Highlights
 
-## 🚀 Featured Projects
+### 🤖 AI-Agent & Automation Workflows
+- **End-to-End Task Orchestration:** Built multi-step automation engines using **n8n** and **Zapier** integrated with custom **Python** backends to eliminate manual processing bottlenecks.
+- **Enterprise Complaint Lifecycle (SCMS):** Designed automated staff routing and computerized SLA escalation protocols using **Django Signals**, handling real-time status transitions.
 
-| Project | Key Technologies | Highlights |
-| :--- | :--- | :--- |
-| **Deepfake Detection System** | Python, Computer Vision, Deep Learning | Detecting facial artifacts and temporal inconsistencies in manipulated video streams. |
-| **Telecom Customer Churn Analytics** | Power BI, Data Preprocessing, EDA | Interactive dashboard analyzing churn drivers, contributing to a 12% improvement in retention insights. |
-| **Student Complaint Management System** | Django, Python, SQLite | Role-based portal featuring automated staff assignment via Django signals, reducing manual processing by 30%. |
-| **Text Summarization System** | Transformers, Flask, NLP | Dual extractive/abstractive summarization web application with 90% context preservation. |
+### 👁️ Computer Vision & Predictive ML
+- **Deepfake & Media Forensics:** Engineered spatial and temporal video artifact detection pipelines leveraging **OpenCV** and Deep Learning architectures for real-time media validation.
+- **Text & NLP Intelligence:** Deployed dual-method (extractive & abstractive) summarization and sentiment analysis services exposed via **FastAPI** / **Flask** APIs.
 
+### 📊 Business Intelligence & Analytics Pipelines
+- **Telecom Retention Modeling:** Engineered end-to-end Power BI reporting suites with dynamic KPIs, behavioral segmentation, and churn forecasting that improved retention insight accuracy by 12%.
 ---
 
 ## 🐍 Contribution Graph & Activity
